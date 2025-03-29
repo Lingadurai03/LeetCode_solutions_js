@@ -1,0 +1,12 @@
+{
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.parameterHints": false,
+  "editor.autoIndent": "advanced",
+  "editor.autoSurround": "never",
+  "editor.snippetSuggestions": "none"
+}
