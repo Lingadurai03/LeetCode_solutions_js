@@ -38,7 +38,7 @@ function binarySearch(arr, k) {
   let right = arr.length - 1;
 
   while (left <= right) {
-    let mid = Math.floor(left + (right - left) / 2);
+    let mid = Math.floor(left + (right - left + 1) / 2);
 
     if (arr[mid] == k) {
       return true;
