@@ -30,7 +30,7 @@
 // -104 <= arr[i] <= 104
 
 /**
- * @param {number[]} arr
+ * @param {number[]} ar
  * @return {boolean}
  */
 var canThreePartsEqualSum = function (arr) {
